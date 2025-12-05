@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548729774826",
+    "project_id": "enfocados-en-dios-tv",
+    "storage_bucket": "enfocados-en-dios-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548729774826:android:a10e3459d62e969a06ed93",
+        "android_client_info": {
+          "package_name": "enfocadosendios.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHLg2TgJhb3FSNnIK2xau2RZYX_yz634"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
